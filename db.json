@@ -1,0 +1,107 @@
+{
+  "users": [
+    {
+      "name": "Wolverine",
+      "age": 35,
+      "email": "wolverine@gmail.com",
+      "id": 1,
+      "password": "00000000"
+    },
+    {
+      "name": "Hulk",
+      "age": 40,
+      "email": "hulk@gmail.com",
+      "id": 2,
+      "password": "11111111"
+    },
+    {
+      "name": "Invisible",
+      "age": 30,
+      "email": "invisible@gmail.com",
+      "id": 3,
+      "password": "qqqqqqqq"
+    },
+    {
+      "name": "Rshved",
+      "email": "shvietsovroman@gmail.com",
+      "password": "11111111",
+      "photo": "",
+      "id": 4
+    },
+    {
+      "name": "Lucky",
+      "email": "lucky@gmail.com",
+      "password": "qweasdzxcqw",
+      "id": 5
+    },
+    {
+      "name": "Semen",
+      "email": "semen@gmail.com",
+      "password": "qwerasdf",
+      "id": 6
+    },
+    {
+      "name": "Polupoker",
+      "email": "Polupoker@gmail.com",
+      "password": "qqqqqqq",
+      "id": 7
+    },
+    {
+      "name": "sadsa",
+      "email": "9man@gmail.com",
+      "password": "qwewqewu",
+      "id": 11
+    },
+    {
+      "name": "sadsad",
+      "email": "sh@gmail.com",
+      "password": "aaaaaaaa",
+      "id": 12
+    }
+  ],
+  "todos": [
+    {
+      "name": "Save the world from meteor rain",
+      "details": "In space, a star has been torn to pieces and its debris are moving towards the earth. Fly there and break them faster than they reach Earth",
+      "start": "2021-04-23 09:00",
+      "end": "2021-04-24 10:00",
+      "id": 1,
+      "done": false,
+      "color": "#4682B4"
+    },
+    {
+      "name": "Kill Dr.Evil",
+      "details": "Dr.evil wants to take over the world, find his laboratory and burn it",
+      "start": "2021-04-20 07:00",
+      "end": "2021-04-20 10:00",
+      "id": 2,
+      "done": false,
+      "color": "#CD853F"
+    },
+    {
+      "name": "Dont sleep 3 days",
+      "details": "Get 3 days awake without doping",
+      "start": "2021-04-25 00:00",
+      "end": "2021-04-28 00:00",
+      "id": 3,
+      "done": false,
+      "color": "#32CD32"
+    },
+    {
+      "name": "Sex",
+      "details": "this weekend",
+      "start": "2021-05-29",
+      "end": "2021-05-29",
+      "color": "#1976D2",
+      "id": 4
+    },
+    {
+      "name": "Sex",
+      "details": "this weekend",
+      "start": "2021-05-30",
+      "end": "2021-05-23",
+      "color": "#19d278",
+      "id": 5
+    }
+  ]
+}
